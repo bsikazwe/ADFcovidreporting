@@ -1,0 +1,9 @@
+{
+	"name": "covidadf1984",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "53331950-4ad9-4774-a228-b1264d6e80df",
+		"tenantId": "01ea1ee8-0c15-4160-9922-f383f39a19be"
+	}
+}
